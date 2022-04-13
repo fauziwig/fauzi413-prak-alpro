@@ -4,7 +4,7 @@ using namespace std;
 class Operator{
 	public:
 		long faktorial();
-		long faktorial(int);
+		long faktorial(int n);
 		
 	private:
 		int n;
@@ -36,6 +36,6 @@ int main(){
 	int angka;
 	cin>>angka;
 	Operator jalan;
-	cout<<jalan.faktorial(angka);//pemanggilan fungsi dengan parameter
+	cout<<jalan.faktorial(angka)<<endl;//pemanggilan fungsi dengan parameter
 	cout<<jalan.faktorial()<<endl;//pemanggilan fungsi tanpa parameter
 }
