@@ -1,3 +1,6 @@
+//Daffa Nauval Hadi Pratama (2100018388)
+//Muhammad Nur Hafizhul (2100018379)
+//Fauzi Triagung Wiguna (2100018413)
 #include<iostream>
 #include<conio.h>
 using namespace std;
